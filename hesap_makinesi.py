@@ -7,7 +7,7 @@ Hesap Makinesine Hoşgeldiniz :
 3- Çarpma 
 4- Bölme 
 Çıkmak için q 'ya basınız.
-
+********************************
 """)
 while True:
 	işlem = input("Lütfen yapmak istediğiniz işlemi giriniz: ")
